@@ -1,0 +1,29 @@
+{
+  "name": "yup-locale-ko",
+  "license": "UNLICENSED",
+  "version": "0.0.1",
+  "contributors": [
+    {
+      "name": "goorm",
+      "email": "cstria0106@gmail.com",
+      "url": "https://github.com/cstria0106"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cstria0106/yup-locale-ko"
+  },
+  "keywords": [
+    "yup",
+    "locale",
+    "korean"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "yarn build"
+  },
+  "devDependencies": {
+    "yarn": "^1.22.10",
+    "yup": "^0.32.9"
+  }
+}
