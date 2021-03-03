@@ -1,7 +1,8 @@
 {
   "name": "yup-locale-ko",
   "license": "UNLICENSED",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "main": "dist/index.js",
   "contributors": [
     {
       "name": "goorm",
