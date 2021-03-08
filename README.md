@@ -1,4 +1,4 @@
-#yup-locale-ko
+# yup-locale-ko
 입력 값 검증 라이브러리 [yup](https://github.com/jquense/yup) 의 한국어 번역입니다.
 
 ## 설치
