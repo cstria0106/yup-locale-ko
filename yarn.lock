@@ -9,10 +9,32 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
+"@types/josa@^3.0.2":
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/@types/josa/-/josa-3.0.2.tgz#f3b37b0385f185a11b9b73114714c786c559926e"
+  integrity sha512-9XoQiicbfAFlntz4h0R7B9aQOnNQU/svBrWMjuv2NTLZumah0s1rTBReLzM3Z1YmtzoVlbKP3QC2psXV31E/Sw==
+
 "@types/lodash@^4.14.165":
   version "4.14.168"
   resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.168.tgz#fe24632e79b7ade3f132891afff86caa5e5ce008"
   integrity sha512-oVfRvqHV/V6D1yifJbVRU3TMp8OT6o6BG+U9MkwuJ3U8/CsDHvalRpsxBqivn71ztOFZBTfJMvETbqHiaNSj7Q==
+
+"@types/yup@^0.29.11":
+  version "0.29.11"
+  resolved "https://registry.yarnpkg.com/@types/yup/-/yup-0.29.11.tgz#d654a112973f5e004bf8438122bd7e56a8e5cd7e"
+  integrity sha512-9cwk3c87qQKZrT251EDoibiYRILjCmxBvvcb4meofCmx1vdnNcR9gyildy5vOHASpOKMsn42CugxUvcwK5eu1g==
+
+jongseong@^0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/jongseong/-/jongseong-0.4.2.tgz#5008c13332829257304c54641f550087d2f4caa9"
+  integrity sha1-UAjBMzKCklcwTFRkH1UAh9L0yqk=
+
+josa@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/josa/-/josa-3.0.1.tgz#e1fa94fc7c78be1d81e965fec0ae43be0a1df352"
+  integrity sha1-4fqU/Hx4vh2B6WX+wK5Dvgod81I=
+  dependencies:
+    jongseong "^0.4.2"
 
 lodash-es@^4.17.15:
   version "4.17.21"

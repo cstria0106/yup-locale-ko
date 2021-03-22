@@ -1,7 +1,7 @@
 {
   "name": "yup-locale-ko",
   "license": "UNLICENSED",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "dist/index.js",
   "contributors": [
     {
@@ -24,7 +24,12 @@
     "prepare": "yarn build"
   },
   "devDependencies": {
+    "@types/josa": "^3.0.2",
+    "@types/yup": "^0.29.11",
     "yarn": "^1.22.10",
     "yup": "^0.32.9"
+  },
+  "dependencies": {
+    "josa": "^3.0.1"
   }
 }
